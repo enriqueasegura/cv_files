@@ -1,0 +1,188 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{Goldrick:2015:WMM:2831296.2831336}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=52cbf5e1e40936c2fc37e92dded0498e}{%
+           family={Goldrick},
+           familyi={G\bibinitperiod},
+           given={Ciarán\bibnamedelima Mc},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3bdc71ea2eb4a0311a33e57913e49a00}{%
+           family={Matney},
+           familyi={M\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=92af7693cf383ee7cbf158e949e4e0bb}{%
+           family={Segura},
+           familyi={S\bibinitperiod},
+           given={Enrique},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a37de3928bad1e02f150b13a30d323e7}{%
+           family={Noh},
+           familyi={N\bibinitperiod},
+           given={Youngtae},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9f91b174c580d691e41a82babe61063b}{%
+           family={Gerla},
+           familyi={G\bibinitperiod},
+           given={Mario},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Arlington, VA, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{9d9bbc83a569ed424deeb9246d954046}
+      \strng{fullhash}{b6f48d46f62a70bcef627bd4076d51be}
+      \strng{bibnamehash}{9d9bbc83a569ed424deeb9246d954046}
+      \strng{authorbibnamehash}{9d9bbc83a569ed424deeb9246d954046}
+      \strng{authornamehash}{9d9bbc83a569ed424deeb9246d954046}
+      \strng{authorfullhash}{b6f48d46f62a70bcef627bd4076d51be}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 10th International Conference on Underwater Networks \& Systems}
+      \field{isbn}{978-1-4503-4036-6}
+      \field{series}{WUWNET '15}
+      \field{title}{WaterCom: A Multilevel, Multipurpose Underwater Communications Test Platform}
+      \field{year}{2015}
+      \true{nocite}
+      \field{pages}{14:1\bibrangedash 14:8}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1145/2831296.2831336
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.acm.org/10.1145/2831296.2831336
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/2831296.2831336
+      \endverb
+    \endentry
+    \entry{McGoldrick:2016:WCR:2999504.3001118}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=133517e917fb46f7324093d7608789f8}{%
+           family={Mc\bibnamedelima Goldrick},
+           familyi={M\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Ciarán},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=92af7693cf383ee7cbf158e949e4e0bb}{%
+           family={Segura},
+           familyi={S\bibinitperiod},
+           given={Enrique},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=62435926eacb4d147ac3571d5020e6ee}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Tianyan},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9f91b174c580d691e41a82babe61063b}{%
+           family={Gerla},
+           familyi={G\bibinitperiod},
+           given={Mario},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Shanghai, China}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{dc5193d08f88fdbb905aec7bceff67d2}
+      \strng{fullhash}{4403aba15b77f31e23285c96a5651633}
+      \strng{bibnamehash}{dc5193d08f88fdbb905aec7bceff67d2}
+      \strng{authorbibnamehash}{dc5193d08f88fdbb905aec7bceff67d2}
+      \strng{authornamehash}{dc5193d08f88fdbb905aec7bceff67d2}
+      \strng{authorfullhash}{4403aba15b77f31e23285c96a5651633}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 11th ACM International Conference on Underwater Networks \& Systems}
+      \field{isbn}{978-1-4503-4637-5}
+      \field{series}{WUWNet '16}
+      \field{title}{WaterCom: Connecting Research Configurations with Practical Deployments: A Multilevel, Multipurpose Underwater Communications Test Platform}
+      \field{year}{2016}
+      \true{nocite}
+      \field{pages}{8:1\bibrangedash 8:2}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1145/2999504.3001118
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.acm.org/10.1145/2999504.3001118
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/2999504.3001118
+      \endverb
+    \endentry
+    \entry{pppl}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=41216b96b62d9cf1de7db335e7984b47}{%
+           family={Segura\bibnamedelima Carrillo},
+           familyi={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Enrique},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Princeton, NJ, USA}%
+      }
+      \list{organization}{1}{%
+        {Princeton Plasma Physics Laboratory Graduate Summer School}%
+      }
+      \strng{namehash}{41216b96b62d9cf1de7db335e7984b47}
+      \strng{fullhash}{41216b96b62d9cf1de7db335e7984b47}
+      \strng{bibnamehash}{41216b96b62d9cf1de7db335e7984b47}
+      \strng{authorbibnamehash}{41216b96b62d9cf1de7db335e7984b47}
+      \strng{authornamehash}{41216b96b62d9cf1de7db335e7984b47}
+      \strng{authorfullhash}{41216b96b62d9cf1de7db335e7984b47}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Mitigating Slow-Drift Effects for Plasma Wakefield Particle Acceleration}}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

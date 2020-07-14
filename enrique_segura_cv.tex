@@ -1,0 +1,263 @@
+% LaTeX resume using res.cls
+\documentclass[margin,line]{res}
+
+\usepackage[utf8]{inputenc} 
+\usepackage[T1]{fontenc}
+\usepackage{ebgaramond}
+
+
+\RequirePackage{filecontents}
+\usepackage[colorlinks = true,
+linkcolor = blue,
+urlcolor  = blue,
+citecolor = blue,
+anchorcolor = blue]{hyperref}
+
+%\lfoot{\hspace{-\sectionwidth}\footnotesize \href{{https://kratsg.github.io/cv/?utm_source=cv}}{\faicon{link}~Giordon Stark's Curriculum Vitae}}
+%\rfoot{\footnotesize Built \href{https://travis-ci.org/kratsg/cv/builds/\BUILDNUMBER}{\today}\ from \href{https://github.com/kratsg/cv/tree/\COMMITHASH}{\COMMITHASH}}
+
+%%eb\linespread{1.0}
+
+\usepackage{fontawesome5}
+
+\begin{filecontents}{jobname.bib}
+@inproceedings{McGoldrick:2016:WCR:2999504.3001118,
+    author = {Mc Goldrick, Ciar\'{a}n and Segura, Enrique and Wu, Tianyan and Gerla, Mario},
+    title = {WaterCom: Connecting Research Configurations with Practical Deployments: A Multilevel, Multipurpose Underwater Communications Test Platform},
+    booktitle = {Proceedings of the 11th ACM International Conference on Underwater Networks \& Systems},
+    series = {WUWNet '16},
+    year = {2016},
+    isbn = {978-1-4503-4637-5},
+    location = {Shanghai, China},
+    pages = {8:1--8:2},
+    articleno = {8},
+    numpages = {2},
+    url = {http://doi.acm.org/10.1145/2999504.3001118},
+    doi = {10.1145/2999504.3001118},
+    acmid = {3001118},
+    publisher = {ACM},
+    address = {New York, NY, USA},
+}
+
+@inproceedings{Goldrick:2015:WMM:2831296.2831336,
+    author = {Goldrick, Ciar\'{a}n Mc and Matney, Mark and Segura, Enrique and Noh, Youngtae and Gerla, Mario},
+    title = {WaterCom: A Multilevel, Multipurpose Underwater Communications Test Platform},
+    booktitle = {Proceedings of the 10th International Conference on Underwater Networks \& Systems},
+    series = {WUWNET '15},
+    year = {2015},
+    isbn = {978-1-4503-4036-6},
+    location = {Arlington, VA, USA},
+    pages = {14:1--14:8},
+    articleno = {14},
+    numpages = {8},
+    url = {http://doi.acm.org/10.1145/2831296.2831336},
+    doi = {10.1145/2831296.2831336},
+    acmid = {2831336},
+    publisher = {ACM},
+    address = {New York, NY, USA},
+}
+\end{filecontents}
+
+\RequirePackage{filecontents}
+
+\begin{filecontents}{jobname1.bib}
+@misc{pppl,
+    author={Segura Carrillo, Enrique},
+    organization = {Princeton Plasma Physics Laboratory Graduate Summer School},
+    title ={{Mitigating Slow-Drift Effects for Plasma Wakefield Particle Acceleration}},
+    year={2019},
+    location = {Princeton, NJ, USA},
+}
+\end{filecontents}
+
+\usepackage[backend=biber,style=authoryear]{biblatex}
+
+\addbibresource{jobname.bib}
+\addbibresource{jobname1.bib}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}
+%\input{env}
+\fancyhead{}
+\fancyfoot{}
+
+%\linespread{1.0}
+
+%______________________________________________________________________________________________________________________
+\begin{document}
+\nocite{*}
+\name{\Large Enrique Alberto Segura Carrillo}
+
+% Center the name over the entire width of resume:
+% \moveleft.5\hoffset\centerline{\large\bf \name{ Enrique Alberto Segura Carrillo}
+% Draw a horizontal line the whole width of resume:
+% \moveleft\hoffset\vbox{\hrule width\resumewidth height 1pt}\smallskip
+
+\begin{resume}
+
+%__________________________________________________________________________________________________________________
+% Contact Information
+\section{ CONTACT \\ INFORMATION}
+
+Enrique Alberto Segura Carrillo                \hfill \href{mailto:eseguraca.6@gmail.com}{\faIcon{envelope}~eseguraca.6@gmail.com}
+\vspace{0mm}\\\vspace{0mm}%
+14022 Foothill Blvd Apt 2  \hfill \href{tel:818-310-0729}{\faIcon{phone}~8183100729}
+\vspace{0mm}\\\vspace{0mm}%
+Sylmar, CA \ \ \ 91342\hfill %\href{https://giordonstark.com/?utm_source=cv}{https://giordonstark.com/}\\
+%\vspace{0.5mm}%
+
+
+%\begin{document}
+%\nocite{*}
+%\begin{resume}
+
+% we need heading=bibnumbered here to tell biblatex to use \section 
+% not \section* (which will produce a spurious * with this class)
+%
+%\printbibliography[title=PUBLICATIONS,heading=bibnumbered]
+
+% we need heading=bibnumbered here to tell biblatex to use \section 
+% not \section* (which will produce a spurious * with this class)
+%
+% Center the name over the entire width of resume:
+ %\moveleft.5\hoffset\centerline{\large\bf Enrique Alberto Segura Carrillo}
+% Draw a horizontal line the whole width of resume:
+ %\moveleft\hoffset\vbox{\hrule width\resumewidth height 1pt}\smallskip
+% address begins here
+% Again, the address lines must be centered over entire width of resume: 
+%\moveleft.5\hoffset\centerline{eseguraca.6@gmail.com}
+%\moveleft.5\hoffset\centerline{(818) 310-0729}
+%\moveleft.5\hoffset\centerline{http://linkedin.com/in/eseguraca6/}
+
+\iffalse
+\section{OBJECTIVE}
+To pursue a Physics PhD in Quantum Information and Computing.
+\fi
+
+\section{EDUCATION}
+{\sl Master of Science,} Physics - California State University, Los Angeles - June 2021
+\\
+{\sl Bachelor of Science,} Physics - University of California, Los Angeles - Los Angeles, CA
+                      % \sl will be bold italic in New Century Schoolbook (or
+	              % any postscript font) and just slanted in
+		      %	Computer Modern (default) font 
+
+\section{AWARDS}  
+Graduate Equity Fellowship \hfill June 2020 \\
+NIH MBRS-RISE MS-to-PhD Fellowship \hfill June 2020 \\
+Sally Casanova Scholar \hfill May 2020 \\
+%HSF Scholarship Finalist \hfill March 2020 \\
+SLAC Alonzo W. Ashley Research Fellowship \hfill November 2017 \\
+%HSF Procter \& Gamble Orgullosa Scholarship  \hfill January 2013 \\
+%AIChE Minority Scholarship Award     \hfill January 2013  \\
+%Questbridge College Match Finalist\hfill Fall 2011 \\0
+
+\printbibliography[title=PUBLICATIONS,heading=bibnumbered, type=inproceedings]
+
+\section{RESEARCH} 
+{\sl Microelectronics Intern Researcher} \hfill June 2020 - September 2020 \\
+The Aerospace Corporation, El Segundo, CA
+				\begin{itemize}
+				\itemsep -2pt
+\item Will develop simulations of physical devices under radiation effects for space applications, implement physics-based model and perform electrical characterization of microelectronic devices to test model's accuracy. 
+					\end{itemize}
+					
+
+{\sl Graduate Student Researcher} \hfill January 2020 - Present\\
+California State University, Los Angeles, Los Angeles CA
+				\begin{itemize}
+					\itemsep -2pt
+					\item Working on experiment automation of Keithley nanovoltmeters, probes and oscilloscopes using LabView and Python to implement a feedback controller to measure spin to spin relaxation time using NMR techniques.
+					\end{itemize}
+
+
+{\sl Visiting Researcher} \hfill November 2018 - November 2019 \\
+				UCLA Network Research Laboratory, 
+                Los Angeles, CA 
+				\begin{itemize}
+					\itemsep -2pt
+					\item Developed implementation of a Quantum Neural Network (QNN) to study the near term gate quantum computer model using Google's Cirq.  
+					\item Tested QNN on a toy-model representing a Stern-Gerlach device under bit-flipping and on 2D Ising model with transverse field.
+					\item Designed a pedagogical colab notebook as a tutorial showcasing this implementation.
+				\end{itemize}
+
+{\sl Science and Engineering Associate I} \hfill November 2017 - November 2018 \\
+				SLAC National Accelerator Laboratory, Menlo Park, CA
+				\begin{itemize}
+					\itemsep -2pt
+					\item Developed Physical Optics Propagation simulations of a Gaussian beam and a flat-top beam propagated on a laser transport comprised of a series of telescopes and mirrors under random perturbations using ZEMAX. 
+					\item Created numerical model to predict effects of thermal changes in a laser system intended for Plasma Wake-field Particle acceleration.  
+					\item Developed an algorithm by using the detected changes in laser position across the transport, the numerical model, and a PID-controller to stabilize the laser system. 
+					\item Designed and built a two-mirrors-two-CCDs system with pico-motors to characterize the effects of hysteresis in the algorithm's performance.
+					\item Applied image processing using template matching and low-pass filters to recognize, differentiate, and track the intended laser spot across the laser system. 
+					\item Algorithm stabilize the effects of thermal fluctuations by a factor of 40 in 24-hour period. 
+					\item Algorithm's feedback enables experiments to run 24/7, dramatically improving from the previous thermally-imposed experimental time-window of 10 pm - 8 am.
+					\item Algorithm's control allows uninterrupted experimental runs removing the need for a time-consuming manual alignment every 30 minutes. 
+					\item Presented project's results to LCLS team at SLAC to showcase its potential as a suitable feedback method for LCLS's beamline.
+				\end{itemize}
+				
+{\sl Undergraduate Researcher} \hfill Summer 2015 - Summer 2017 \\
+                UCLA Network Research Laboratory, 
+                Los Angeles, CA 
+                 \begin{itemize}  \itemsep -2pt %reduce space between items
+                 \item Developed web infrastructure to remotely schedule experiments.
+                \item Prepared embedded hardware for experiments by developing parallel compilation of NRL's MPTCP Linux Kernel on Raspberry Pis.
+                \item Executed data acquisition of vehicular and underwater wireless experiments.
+                \item Implemented data analysis of experimental data to quantify network traffic trade-offs between TCP vs MPTCP.
+                \end{itemize}  
+                
+\section{ADDITIONAL \\ TRAINING}
+ 
+{ Princeton Plasma Physics Laboratory
+Graduate Summer School }\hfill  Summer 2019\\
+{SLAC Summer Institute }\hfill  Summer 2018 \\
+ { 
+SLAC Machine Learning Applications for Particle Accelerators Mini-Workshop} \hfill            Spring 2018 \\        
+
+\printbibliography[title=POSTER, type=misc, heading=bibnumbered]     
+
+\section{ TEACHING}  
+
+{\sl Graduate Assistant} \hfill Fall 2019 \\
+California State University, Los Angeles, Los Angeles, CA
+\begin{itemize} \itemsep -2pt 
+\item Supported laboratory physics course focused on experimental debugging to teach physics concepts.
+\end{itemize}
+
+{\sl CSL Fellow} \hfill        Fall 2016, Winter 2019  \\
+Hispanic Heritage Foundation,   Washington, D.C.
+\begin{itemize} \itemsep -2pt 
+	\item Developed computer science fundamentals course at Telfair Elementary using Scratch during Winter 2019.
+	\item Provided programming fundamentals workshop at San Fernando High School Magnet's AP Computer Science course using Java during Fall 2016.
+\end{itemize}
+
+ {\sl Computer Science Instructor} \hfill            Summer 2017 \\
+SMASH Academy, University of California, Los Angeles
+\begin{itemize}  \itemsep -2pt %reduce space between items
+	\item Developed computer science fundamentals course on Python for gifted high school students.
+\end{itemize} 
+
+%\iffalse
+{\sl Computer Science Instructor} \hfill        Spring 2017  \\
+ACM TEACH LA, UCLA Lab School,   Los Angeles, CA
+\begin{itemize} \itemsep -2pt 
+	\item Co-lead on a computer science course for gifted fifth graders at UCLA Lab School using Python.
+\end{itemize} 
+
+%\fi
+
+\iffalse
+{\sl CSL Fellow} \hfill        Fall 2016  \\
+Hispanic Heritage Foundation,   San Fernando, CA
+\begin{itemize} \itemsep -2pt 
+	\item Provided programming fundamentals workshop for AP Computer Science students using Java at San Fernando High School Magnet program.
+\end{itemize}
+\fi
+
+\section{SKILLS}  Python, LabVIEW, MATLAB, Linux, Raspberry Pi 3, Arduino, Fortran, Zemax, Cirq, Qiskit, Mathematica.
+
+
+\end{resume}
+
+\end{document}
