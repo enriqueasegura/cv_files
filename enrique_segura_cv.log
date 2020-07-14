@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.7.12)  13 JUL 2020 22:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.7.12)  13 JUL 2020 22:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -497,24 +497,24 @@ s
 (./enrique_segura_cv.aux)
 \openout1 = `enrique_segura_cv.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
 LaTeX Font Info:    Trying to load font information for T1+EBGaramond-OsF on in
-put line 89.
+put line 94.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/ebgaramond/T1EBGaramond-OsF.fd
 File: T1EBGaramond-OsF.fd 2019/10/22 (autoinst) Font definitions for T1/EBGaram
@@ -523,9 +523,9 @@ ond-OsF.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' in size <10> not availab
 le
 (Font)              Font shape `T1/EBGaramond-OsF/regular/n' tried instead on i
-nput line 89.
+nput line 94.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/regular/n' will be
-(Font)              scaled to size 10.0pt on input line 89.
+(Font)              scaled to size 10.0pt on input line 94.
 \c@mv@tabular=\count385
 \c@mv@boldtabular=\count386
 \AtBeginShipoutBox=\box46
@@ -555,7 +555,7 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 \makeMPintoPDFobject=\count392
 \everyMPtoPDFconversion=\toks25
 )))
-Package hyperref Info: Link coloring ON on input line 89.
+Package hyperref Info: Link coloring ON on input line 94.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
@@ -568,9 +568,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count393
 )
-LaTeX Info: Redefining \ref on input line 89.
-LaTeX Info: Redefining \pageref on input line 89.
-LaTeX Info: Redefining \nameref on input line 89.
+LaTeX Info: Redefining \ref on input line 94.
+LaTeX Info: Redefining \pageref on input line 94.
+LaTeX Info: Redefining \nameref on input line 94.
  (./enrique_segura_cv.out) (./enrique_segura_cv.out)
 \@outlinefile=\write4
 \openout4 = `enrique_segura_cv.out'.
@@ -590,80 +590,80 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'enrique_segura_cv.bbl' found.
 
 (./enrique_segura_cv.bbl)
-Package biblatex Info: Reference section=0 on input line 89.
-Package biblatex Info: Reference segment=0 on input line 89.
+Package biblatex Info: Reference section=0 on input line 94.
+Package biblatex Info: Reference segment=0 on input line 94.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' in size <12> not availab
 le
 (Font)              Font shape `T1/EBGaramond-OsF/regular/n' tried instead on i
-nput line 98.
+nput line 103.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/regular/n' will be
-(Font)              scaled to size 12.0pt on input line 98.
+(Font)              scaled to size 12.0pt on input line 103.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/b/n' in size <12> not availab
 le
 (Font)              Font shape `T1/EBGaramond-OsF/bold/n' tried instead on inpu
-t line 98.
+t line 103.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/bold/n' will be
-(Font)              scaled to size 12.0pt on input line 98.
+(Font)              scaled to size 12.0pt on input line 103.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/b/n' in size <14.4> not avail
 able
 (Font)              Font shape `T1/EBGaramond-OsF/bold/n' tried instead on inpu
-t line 98.
+t line 103.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/bold/n' will be
-(Font)              scaled to size 14.4pt on input line 98.
+(Font)              scaled to size 14.4pt on input line 103.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/b/n' in size <10> not availab
 le
 (Font)              Font shape `T1/EBGaramond-OsF/bold/n' tried instead on inpu
-t line 102.
+t line 107.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/bold/n' will be
-(Font)              scaled to size 10.0pt on input line 102.
+(Font)              scaled to size 10.0pt on input line 107.
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 104.
+nput line 109.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd
 )
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
-nput line 106.
+nput line 111.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd
 )
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/sl' in size <10> not availa
 ble
 (Font)              Font shape `T1/EBGaramond-OsF/regular/sl' tried instead on 
-input line 140.
+input line 145.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/regular/sl' in size <10> not 
 available
 (Font)              Font shape `T1/EBGaramond-OsF/regular/it' tried instead on 
-input line 140.
+input line 145.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/regular/it' will be
-(Font)              scaled to size 10.0pt on input line 140.
+(Font)              scaled to size 10.0pt on input line 145.
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--156
+Underfull \hbox (badness 10000) in paragraph at lines 153--161
 
  []
 
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/it' in size <10> not availa
 ble
 (Font)              Font shape `T1/EBGaramond-OsF/regular/it' tried instead on 
-input line 157.
+input line 162.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/regular/it' will be
-(Font)              scaled to size 10.0pt on input line 157.
+(Font)              scaled to size 10.0pt on input line 162.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/sc' in size <10> not availa
 ble
 (Font)              Font shape `T1/EBGaramond-OsF/regular/sc' tried instead on 
-input line 157.
+input line 162.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/regular/sc' will be
-(Font)              scaled to size 10.0pt on input line 157.
+(Font)              scaled to size 10.0pt on input line 162.
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
-57.
+62.
 (/usr/local/texlive/2020/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 157.
+(Font)              <7> on input line 162.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 157.
+(Font)              <5> on input line 162.
 LaTeX Font Info:    Trying to load font information for TS1+EBGaramond-OsF on i
-nput line 164.
+nput line 169.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/ebgaramond/TS1EBGaramond-OsF.fd
 File: TS1EBGaramond-OsF.fd 2019/10/22 (autoinst) Font definitions for TS1/EBGar
@@ -672,35 +672,35 @@ amond-OsF.
 LaTeX Font Info:    Font shape `TS1/EBGaramond-OsF/m/n' in size <10> not availa
 ble
 (Font)              Font shape `TS1/EBGaramond-OsF/regular/n' tried instead on 
-input line 164.
+input line 169.
 LaTeX Font Info:    Font shape `TS1/EBGaramond-OsF/regular/n' will be
-(Font)              scaled to size 10.0pt on input line 164.
+(Font)              scaled to size 10.0pt on input line 169.
 
 [1
 
 {/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (0.82823pt too wide) in paragraph at lines 208--209
+Overfull \hbox (0.82823pt too wide) in paragraph at lines 213--214
 []\T1/EBGaramond-OsF/regular/n/10 Implemented data anal-y-sis of ex-per-i-men-t
 al data to quan-tify net-work traf-fic trade-offs be-tween TCP vs MPTCP. 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 213--218
+Underfull \hbox (badness 10000) in paragraph at lines 218--223
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 264.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 269.
 [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 264.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 269.
  (./enrique_segura_cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 264.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 264.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 269.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 269.
 Package rerunfilecheck Info: File `enrique_segura_cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package logreq Info: Writing requests to 'enrique_segura_cv.run.xml'.
 \openout1 = `enrique_segura_cv.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 264.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 269.
  ) 
 Here is how much of TeX's memory you used:
  16462 strings out of 480471

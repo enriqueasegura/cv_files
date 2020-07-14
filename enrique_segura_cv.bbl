@@ -21,11 +21,11 @@
   \datalist[entry]{nyt/global//global/global}
     \entry{Goldrick:2015:WMM:2831296.2831336}{inproceedings}{}
       \name{author}{5}{}{%
-        {{un=0,uniquepart=base,hash=52cbf5e1e40936c2fc37e92dded0498e}{%
-           family={Goldrick},
-           familyi={G\bibinitperiod},
-           given={Ciarán\bibnamedelima Mc},
-           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+        {{un=0,uniquepart=base,hash=133517e917fb46f7324093d7608789f8}{%
+           family={Mc\bibnamedelima Goldrick},
+           familyi={M\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Ciarán},
+           giveni={C\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=3bdc71ea2eb4a0311a33e57913e49a00}{%
            family={Matney},
@@ -58,14 +58,14 @@
       \list{publisher}{1}{%
         {ACM}%
       }
-      \strng{namehash}{a7bd50da6024a76e70ad2c90df8577e5}
-      \strng{fullhash}{b6f48d46f62a70bcef627bd4076d51be}
-      \strng{bibnamehash}{b6f48d46f62a70bcef627bd4076d51be}
-      \strng{authorbibnamehash}{b6f48d46f62a70bcef627bd4076d51be}
-      \strng{authornamehash}{a7bd50da6024a76e70ad2c90df8577e5}
-      \strng{authorfullhash}{b6f48d46f62a70bcef627bd4076d51be}
-      \field{sortinit}{G}
-      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \strng{namehash}{ec63672ce95280330060ba8435a87d2a}
+      \strng{fullhash}{78af0fc762169fe1189449207af67600}
+      \strng{bibnamehash}{78af0fc762169fe1189449207af67600}
+      \strng{authorbibnamehash}{78af0fc762169fe1189449207af67600}
+      \strng{authornamehash}{ec63672ce95280330060ba8435a87d2a}
+      \strng{authorfullhash}{78af0fc762169fe1189449207af67600}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
