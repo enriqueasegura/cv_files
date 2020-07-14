@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.7.12)  14 JUL 2020 16:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.7.12)  14 JUL 2020 16:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -626,16 +626,10 @@ nput line 111.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd
 )
-LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/sl' in size <10> not availa
-ble
-(Font)              Font shape `T1/EBGaramond-OsF/regular/sl' tried instead on 
-input line 145.
-LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/regular/sl' in size <10> not 
-available
-(Font)              Font shape `T1/EBGaramond-OsF/regular/it' tried instead on 
-input line 145.
-LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/regular/it' will be
-(Font)              scaled to size 10.0pt on input line 145.
+Underfull \hbox (badness 10000) in paragraph at lines 145--151
+
+ []
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 153--161
 
@@ -662,6 +656,16 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 162.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 162.
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/sl' in size <10> not availa
+ble
+(Font)              Font shape `T1/EBGaramond-OsF/regular/sl' tried instead on 
+input line 165.
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/regular/sl' in size <10> not 
+available
+(Font)              Font shape `T1/EBGaramond-OsF/regular/it' tried instead on 
+input line 165.
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/regular/it' will be
+(Font)              scaled to size 10.0pt on input line 165.
 LaTeX Font Info:    Trying to load font information for TS1+EBGaramond-OsF on i
 nput line 169.
 
@@ -723,7 +727,7 @@ nd-Italic.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/ebgaramond
 /EBGaramond-Regular.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/
 fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2020/texmf-dist/fon
 ts/type1/public/cm-super/sftt1000.pfb>
-Output written on enrique_segura_cv.pdf (2 pages, 339541 bytes).
+Output written on enrique_segura_cv.pdf (2 pages, 339117 bytes).
 PDF statistics:
  60 PDF objects out of 1000 (max. 8388607)
  50 compressed objects within 1 object stream
