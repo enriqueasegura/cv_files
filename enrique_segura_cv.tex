@@ -3,6 +3,7 @@
 
 \usepackage[utf8]{inputenc} 
 \usepackage[T1]{fontenc}
+\usepackage{fourier}
 \usepackage{ebgaramond}
 
 
@@ -81,6 +82,16 @@ anchorcolor = blue]{hyperref}
 \addbibresource{jobname.bib}
 \addbibresource{jobname1.bib}
 
+\usepackage{etoolbox}
+\BeforeBeginEnvironment{thebibliography}{%
+  \let\origsection\section% save original definition of \section
+  \let\section\subsection%  make \section behave like \subsection
+}
+\AfterEndEnvironment{thebibliography}{%
+  \let\section\origsection% restore original definition of \section
+}
+
+
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 \renewcommand{\headrulewidth}{0pt}
@@ -149,7 +160,8 @@ University of California, Los Angeles, Los Angeles, California \hfill June 2017 
 B.S. Physics\\[2.5mm]
 %
 
-\section{FELLOWSHIPS}  
+\section{FELLOWSHIPS  \& AWARDS}  
+Larry Chu Scholarship \hfill July 2020 \\
 Graduate Equity Fellowship \hfill June 2020 \\
 NIH MBRS-RISE MS-to-PhD Fellowship \hfill June 2020 \\
 Sally Casanova Scholar \hfill May 2020 \\
@@ -159,14 +171,14 @@ SLAC Alonzo W. Ashley Research Fellowship \hfill November 2017 \\
 %AIChE Minority Scholarship Award     \hfill January 2013  \\
 %Questbridge College Match Finalist\hfill Fall 2011 \\0
 
-\printbibliography[title=PUBLICATIONS,heading=bibnumbered, type=inproceedings]
+\printbibliography[title=PUBLICATIONS,heading=bibnumbered, type=inproceedings,sorting=ynt]
 
 \section{RESEARCH} 
 {\sl Microelectronics Intern Researcher} \hfill June 2020 - September 2020 \\
 The Aerospace Corporation, El Segundo, CA
 				\begin{itemize}
 				\itemsep -2pt
-\item Will develop simulations of physical devices under radiation effects for space applications, implement physics-based model and perform electrical characterization of microelectronic devices to test model's accuracy. 
+\item Will develop simulations of physical devices under radiation effects for space applications, implement physics-based model using Silvaco TCAD, and perform electrical characterization of microelectronic devices to test model's accuracy. 
 					\end{itemize}
 					
 
