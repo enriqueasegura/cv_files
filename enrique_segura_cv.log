@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.7.12)  2 AUG 2020 21:53
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.7.12)  4 AUG 2020 08:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1023,7 +1023,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 156--162
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 164--173
+Underfull \hbox (badness 10000) in paragraph at lines 164--174
 
  []
 
@@ -1033,13 +1033,13 @@ Package biblatex Warning: 'sorting' option to '\printbibliography' is no longer
 (biblatex)                Please use 'sorting' option to '\newrefcontext'.
 
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/it' will be
-(Font)              scaled to size 10.0pt on input line 175.
+(Font)              scaled to size 10.0pt on input line 176.
 Requested font "[EBGaramond-Italic.otf]/OT:script=latn;language=dflt;+pnum;+onu
 m;mapping=tex-text;" at 10.0pt
  -> /usr/local/texlive/2020/texmf-dist/fonts/opentype/public/ebgaramond/EBGaram
 ond-Italic.otf
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/sc' will be
-(Font)              scaled to size 10.0pt on input line 175.
+(Font)              scaled to size 10.0pt on input line 176.
 Requested font "[EBGaramond-Regular.otf]/OT:script=latn;language=dflt;+pnum;+on
 um;+smcp;mapping=tex-text;" at 10.0pt
  -> /usr/local/texlive/2020/texmf-dist/fonts/opentype/public/ebgaramond/EBGaram
@@ -1052,7 +1052,7 @@ Requested font "futr8t" at 7.6pt
 Requested font "futr8t" at 6.0pt
  -> /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/fourier/futr8t.tfm
 LaTeX Font Info:    Trying to load font information for FML+futmi on input line
- 175.
+ 176.
 (/usr/local/texlive/2020/texmf-dist/tex/latex/fourier/fmlfutmi.fd
 File: fmlfutmi.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futmi.
 )
@@ -1069,15 +1069,15 @@ Requested font "futsy" at 7.6pt
 Requested font "futsy" at 6.0pt
  -> /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/fourier/futsy.tfm
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 175.
+(Font)              scaled to size 9.19998pt on input line 176.
 Requested font "fourier-mex" at 9.19998pt
  -> /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/fourier/fourier-mex.tfm
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 6.99199pt on input line 175.
+(Font)              scaled to size 6.99199pt on input line 176.
 Requested font "fourier-mex" at 6.99199pt
  -> /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/fourier/fourier-mex.tfm
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 175.
+(Font)              scaled to size 5.51999pt on input line 176.
 Requested font "fourier-mex" at 5.51999pt
  -> /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/fourier/fourier-mex.tfm
 Requested font "futmi" at 10.0pt
@@ -1087,23 +1087,23 @@ Requested font "futmi" at 7.6pt
 Requested font "futmi" at 6.0pt
  -> /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/fourier/futmi.tfm
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 175.
+(Font)              scaled to size 9.19998pt on input line 176.
 Requested font "fourier-bb" at 9.19998pt
  -> /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/fourier/fourier-bb.tfm
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 6.99199pt on input line 175.
+(Font)              scaled to size 6.99199pt on input line 176.
 Requested font "fourier-bb" at 6.99199pt
  -> /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/fourier/fourier-bb.tfm
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 175.
+(Font)              scaled to size 5.51999pt on input line 176.
 Requested font "fourier-bb" at 5.51999pt
  -> /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/fourier/fourier-bb.tfm
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/sl' in size <10> not availab
 le
 (Font)              Font shape `TU/EBGaramond(0)/m/it' tried instead on input l
-ine 178.
+ine 179.
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/it' will be
-(Font)              scaled to size 10.0pt on input line 178.
+(Font)              scaled to size 10.0pt on input line 179.
 
 (/usr/local/texlive/2020/texmf-dist/tex/generic/stringenc/se-ascii-print.def
 File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
@@ -1112,28 +1112,28 @@ File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
 [1
 
 ]
-Overfull \hbox (0.83372pt too wide) in paragraph at lines 229--230
+Overfull \hbox (0.83372pt too wide) in paragraph at lines 230--231
 []\TU/EBGaramond(0)/m/n/10 Implemented data analysis of experimental data to qu
 antify network traffic trade-offs between TCP vs MPTCP. 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--240
+Underfull \hbox (badness 10000) in paragraph at lines 237--242
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 287.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 289.
 [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 287.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 289.
  (./enrique_segura_cv.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 287.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 287.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 289.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 289.
 Package rerunfilecheck Info: File `enrique_segura_cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package logreq Info: Writing requests to 'enrique_segura_cv.run.xml'.
 \openout1 = `enrique_segura_cv.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 287.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 289.
  ) 
 Here is how much of TeX's memory you used:
  20312 strings out of 479277
